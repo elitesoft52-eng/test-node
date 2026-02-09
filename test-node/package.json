@@ -1,0 +1,1 @@
+{\n  "name": "test-node",\n  "version": "1.0.0",\n  "description": "A test Node.js application with Express.js",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1"\n  },\n  "author": "elitesoft52-eng",\n  "license": "ISC"\n}
