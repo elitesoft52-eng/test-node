@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# Directory for instrumentation logs
+coverage/
+
+# Misc
+.DS_Store
+.env
